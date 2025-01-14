@@ -4,33 +4,36 @@ A Flutter application for managing and monitoring library occupancy in real-time
 
 ## Screenshots
 
-### Login Screen
-
-![Login Screen](git_images/login.png)
-
-### Dashboard
-
-![Dashboard](git_images/dashboard.png)
-
-### Occupancy Management
-
-![Occupancy Management](git_images/occupancy.png)
-
-### Analysis & Reports
-
-![Analysis](git_images/analysis.png)
-
-### Notifications
-
-![Notifications](git_images/notifications.png)
-
-### Profile Management
-
-![Profile](git_images/profile.png)
-
-### Admin Settings
-
-![Admin Settings](git_images/admin-settings.png)
+<table>
+<tr>
+  <td width="33%">
+    <p align="center"><strong>Login Screen</strong></p>
+    <img src="git_images/login.png" width="100%" />
+  </td>
+  <td width="33%">
+    <p align="center"><strong>Occupancy Management</strong></p>
+    <img src="git_images/occupancy.png" width="100%" />
+  </td>
+     <td width="33%">
+    <p align="center"><strong>Admin Settings</strong></p>
+    <img src="git_images/admin-settings.png" width="100%" />
+  </td>
+</tr>
+<tr>
+  <td width="33%">
+    <p align="center"><strong>Analysis & Reports</strong></p>
+    <img src="git_images/analysis.png" width="100%" />
+  </td>
+  <td width="33%">
+    <p align="center"><strong>Notifications</strong></p>
+    <img src="git_images/notifications.png" width="100%" />
+  </td>
+  <td width="33%">
+    <p align="center"><strong>Profile Management</strong></p>
+    <img src="git_images/profile.png" width="100%" />
+  </td>
+</tr>
+</table>
 
 ## Features
 
