@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/burakkoc/lod_gui/macos/build/Release/FirebaseDatabase/FirebaseDatabase.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/burakkoc/lod_gui/macos/build/Release/FirebaseDatabase/FirebaseDatabase.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseDatabase-Swift.h",
+      'external-contents': "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lod-db-2",
+          "appId": "1:449696734880:android:1aab2970faed00d2ff73c5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "lod-db-2",
+          "appId": "1:449696734880:ios:cc65330026c7f83bff73c5",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "lod-db-2",
+          "appId": "1:449696734880:ios:cc65330026c7f83bff73c5",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lod-db",
+          "configurations": {
+            "android": "1:1027841119250:android:e4185d1ca86d1bfd4774cb",
+            "ios": "1:1027841119250:ios:62cde8b93158af084774cb",
+            "macos": "1:1027841119250:ios:62cde8b93158af084774cb",
+            "web": "1:1027841119250:web:a84664d7d14f8fcd4774cb",
+            "windows": "1:1027841119250:web:9a116d5240fc7b3a4774cb"
+          }
+        }
+      }
+    }
+  }
+}

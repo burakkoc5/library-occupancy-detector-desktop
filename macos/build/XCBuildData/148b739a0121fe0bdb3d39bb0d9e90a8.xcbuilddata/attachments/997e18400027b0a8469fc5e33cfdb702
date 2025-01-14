@@ -1,0 +1,35 @@
+{
+  "" : {
+    "const-values" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master.swiftconstvalues",
+    "dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master.d",
+    "diagnostics" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master.dia",
+    "emit-module-dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master-emit-module.dia",
+    "swift-dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-master.swiftdeps"
+  },
+  "/Users/burakkoc/lod_gui/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DatabaseReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DatabaseReference+WriteEncodable.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DatabaseReference+WriteEncodable.o"
+  },
+  "/Users/burakkoc/lod_gui/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DataSnapshot+ReadDecodable.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DataSnapshot+ReadDecodable.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/DataSnapshot+ReadDecodable.o"
+  },
+  "/Users/burakkoc/lod_gui/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/EncoderDecoder.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/EncoderDecoder.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/EncoderDecoder.o"
+  },
+  "/Users/burakkoc/lod_gui/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/ServerTimestamp.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/ServerTimestamp.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/ServerTimestamp.o"
+  },
+  "/Users/burakkoc/lod_gui/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/SPMSwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/SPMSwiftHeaderWorkaround.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/FirebaseDatabase.build/Objects-normal/x86_64/SPMSwiftHeaderWorkaround.o"
+  }
+}

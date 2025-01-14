@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master.swiftconstvalues",
+    "dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master.d",
+    "diagnostics" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master.dia",
+    "emit-module-dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/screen_retriever_macos-master.swiftdeps"
+  },
+  "/Users/burakkoc/.pub-cache/hosted/pub.dev/screen_retriever_macos-0.2.0/macos/Classes/ScreenRetrieverMacosPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/ScreenRetrieverMacosPlugin.o",
+    "llvm-bc" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/ScreenRetrieverMacosPlugin.bc",
+    "object" : "/Users/burakkoc/lod_gui/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/arm64/ScreenRetrieverMacosPlugin.o"
+  }
+}

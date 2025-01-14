@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "449696734880",
+    "firebase_url": "https://lod-db-2-default-rtdb.firebaseio.com",
+    "project_id": "lod-db-2",
+    "storage_bucket": "lod-db-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449696734880:android:1aab2970faed00d2ff73c5",
+        "android_client_info": {
+          "package_name": "com.lodgui.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDLWaDOnA_IrSN9n8rKlgIdepPyp2k3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
