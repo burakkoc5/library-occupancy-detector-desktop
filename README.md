@@ -2,6 +2,36 @@
 
 A Flutter application for managing and monitoring library occupancy in real-time.
 
+## Screenshots
+
+### Login Screen
+
+![Login Screen](git_images/login.png)
+
+### Dashboard
+
+![Dashboard](git_images/dashboard.png)
+
+### Occupancy Management
+
+![Occupancy Management](git_images/occupancy.png)
+
+### Analysis & Reports
+
+![Analysis](git_images/analysis.png)
+
+### Notifications
+
+![Notifications](git_images/notifications.png)
+
+### Profile Management
+
+![Profile](git_images/profile.png)
+
+### Admin Settings
+
+![Admin Settings](git_images/admin-settings.png)
+
 ## Features
 
 ### Authentication ✅
